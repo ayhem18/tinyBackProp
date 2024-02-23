@@ -1,0 +1,6 @@
+*.xml
+*.jpg
+*.png
+*__pycache__
+*.zip
+
